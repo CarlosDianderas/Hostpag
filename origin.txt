@@ -1,0 +1,848 @@
+Uri: https://conectaweb.pe/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/cache/min/1/d24191a814bd86ba8ac0eb42bc1e11cc.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\min\1\d24191a814bd86ba8ac0eb42bc1e11cc.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/feed/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://conectaweb.pe/comments/feed/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://conectaweb.pe/wp-json/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-json\index.json
+Content Type: application/json
+
+Uri: https://conectaweb.pe/xmlrpc.php?rsd
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://conectaweb.pe/wp-includes/wlwmanifest.xml
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://conectaweb.pe/wp-json/oembed/1.0/embed?url=https:%2F%2Fconectaweb.pe%2F
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://conectaweb.pe/wp-json/oembed/1.0/embed?url=https:%2F%2Fconectaweb.pe%2F&
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://conectaweb.pe/wp-content/uploads/2019/09/cropped-favicon-conectaweb-arequipa-1-32x32.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2019\09\cropped-favicon-conectaweb-arequipa-1-32x32.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/uploads/2019/09/cropped-favicon-conectaweb-arequipa-1-192x192.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2019\09\cropped-favicon-conectaweb-arequipa-1-192x192.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/uploads/2019/09/cropped-favicon-conectaweb-arequipa-1-180x180.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2019\09\cropped-favicon-conectaweb-arequipa-1-180x180.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/paginas-web-arequipa/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\paginas-web-arequipa\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/tiendas-virtuales/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\tiendas-virtuales\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-includes/js/jquery/jquery-1.12.4-wp.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-includes\js\jquery\jquery-1.12.4-wp.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-includes/js/jquery/jquery-migrate.min-1.4.1.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-includes\js\jquery\jquery-migrate.min-1.4.1.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-includes/js/mediaelement/mediaelement-and-player.min-4.2.6-78496d1.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-includes\js\mediaelement\mediaelement-and-player.min-4.2.6-78496d1.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-includes/js/mediaelement/mediaelement-migrate.min.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/min/1/wp-content/plugins/auxin-pro-tools/admin/assets/js/elementor/widgets-6c136c281191384573720b1c6365a24e.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\min\1\wp-content\plugins\auxin-pro-tools\admin\assets\js\elementor\widgets-6c136c281191384573720b1c6365a24e.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/js/solo/modernizr-custom.min.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\js\solo\modernizr-custom.min.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/uploads/2018/09/logotipo-conectaweb-diseño-web-arequipa-white.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2018\09\logotipo-conectaweb-diseño-web-arequipa-white.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/uploads/2019/09/logo-conectaweb-diseño-web-arequipa.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2019\09\logo-conectaweb-diseño-web-arequipa.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/uploads/2018/09/logotipo-conectaweb-diseño-web-arequipa-white_1.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2018\09\logotipo-conectaweb-diseño-web-arequipa-white_1.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-includes/js/imagesloaded.min-3.2.0.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-includes\js\imagesloaded.min-3.2.0.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-includes/js/masonry.min-3.3.2.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-includes\js\masonry.min-3.3.2.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/js/plugins.min.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\js\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/min/1/wp-content/plugins/auxin-elements/admin/assets/js/elementor/widgets-a5364966d7bafd58240afe9700c2cbac.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\min\1\wp-content\plugins\auxin-elements\admin\assets\js\elementor\widgets-a5364966d7bafd58240afe9700c2cbac.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-includes/js/mediaelement/wp-mediaelement.min.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/auxin-elements/public/assets/js/plugins.min-2.4.19.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\auxin-elements\public\assets\js\plugins.min-2.4.19.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/js/scripts.min.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/min/1/wp-content/plugins/auxin-pro-tools/public/assets/js/pro-tools-3c56573bf1b249893eccf225ef223ca4.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\min\1\wp-content\plugins\auxin-pro-tools\public\assets\js\pro-tools-3c56573bf1b249893eccf225ef223ca4.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-includes/js/wp-embed.min.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/popper.min.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\vendor\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/tippy.all.min.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\vendor\js\tippy.all.min.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/min/1/wp-content/plugins/elfsight-whatsapp-chat-cc/assets/elfsight-whatsapp-chat-0f41c86e885c629babfe25e60c4147ec.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\min\1\wp-content\plugins\elfsight-whatsapp-chat-cc\assets\elfsight-whatsapp-chat-0f41c86e885c629babfe25e60c4147ec.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min-3.2.2.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\bdthemes-element-pack\assets\js\bdt-uikit.min-3.2.2.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/elementor/assets/js/frontend-modules.min-2.8.5.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\elementor\assets\js\frontend-modules.min-2.8.5.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-includes/js/jquery/ui/position.min-1.11.4.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-includes\js\jquery\ui\position.min-1.11.4.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/elementor/assets/lib/dialog/dialog.min-4.7.3.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\elementor\assets\lib\dialog\dialog.min-4.7.3.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min-4.0.2.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min-4.0.2.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/elementor/assets/lib/swiper/swiper.min-4.4.6.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\elementor\assets\lib\swiper\swiper.min-4.4.6.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/elementor/assets/js/frontend.min-2.8.5.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\elementor\assets\js\frontend.min-2.8.5.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/bdthemes-element-pack/assets/js/element-pack-site.min-3.2.2.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\bdthemes-element-pack\assets\js\element-pack-site.min-3.2.2.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min-2.8.3.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min-2.8.3.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/cache/busting/1/wp-content/plugins/elementor-pro/assets/js/frontend.min-2.8.3.js
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\busting\1\wp-content\plugins\elementor-pro\assets\js\frontend.min-2.8.3.js
+Content Type: application/javascript
+
+Uri: https://conectaweb.pe/wp-content/uploads/2018/09/logotipo-conectaweb-diseño-web-arequipa-white-600x113.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2018\09\logotipo-conectaweb-diseño-web-arequipa-white-600x113.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/arrow-left.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/arrow-right.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://conectaweb.pe/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/loading.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.5.0
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.5.0
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.5.0
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.5.0
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.5.0
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/uploads/2019/09/conectaweb-diseño-paginas-web-arequipa-2.jpg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2019\09\conectaweb-diseño-paginas-web-arequipa-2.jpg
+Content Type: image/jpeg
+
+Uri: https://conectaweb.pe/wp-content/uploads/2019/09/creacion-de-paginas-web-responsive-arequipa-2.jpg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2019\09\creacion-de-paginas-web-responsive-arequipa-2.jpg
+Content Type: image/jpeg
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/fonts/fontastic/auxin-front.eot
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\fonts\fontastic\auxin-front.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/fonts/fontastic/auxin-front.woff
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\fonts\fontastic\auxin-front.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/fonts/fontastic/auxin-front.ttf
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\fonts\fontastic\auxin-front.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/fonts/fontastic/auxin-front.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\fonts\fontastic\auxin-front.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/symbols.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\symbols.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/downarrow.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\downarrow.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/spinner-default.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\spinner-default.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/spinner-light.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\spinner-light.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/spinner-dark.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\spinner-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/photoswipe/default-skin.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\photoswipe\default-skin.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/photoswipe/default-skin.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\photoswipe\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/photoswipe/preloader.gif
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\photoswipe\preloader.gif
+Content Type: image/gif
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/controls/arrows/small-arrow-down.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\controls\arrows\small-arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/checkbox.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\checkbox.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/other/mejs/dark-video-play.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\other\mejs\dark-video-play.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/other/mejs/dark-player.controls.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\other\mejs\dark-player.controls.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/other/mejs/light-video-play.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\other\mejs\light-video-play.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/other/mejs/light-player.controls.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\other\mejs\light-player.controls.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/play.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\play.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/pause.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\pause.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/controls/arrows/small-arrow-down-white.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\controls\arrows\small-arrow-down-white.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/leftarrow.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\leftarrow.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/rightarrow.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\rightarrow.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/404.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\404.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/themes/conectaweb/css/images/svg/reply.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\themes\conectaweb\css\images\svg\reply.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/uploads/2018/09/empresa-diseño-web-arequipa-conectaweb.jpg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2018\09\empresa-diseño-web-arequipa-conectaweb.jpg
+Content Type: image/jpeg
+
+Uri: https://conectaweb.pe/wp-content/uploads/2019/09/conectaweb-empresa-de-diseño-web-arequipa.jpg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2019\09\conectaweb-empresa-de-diseño-web-arequipa.jpg
+Content Type: image/jpeg
+
+Uri: https://conectaweb.pe/wp-content/cache/min/1/d3a62ac7afa80c657b3ca31ceb208191.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\min\1\d3a62ac7afa80c657b3ca31ceb208191.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-json/oembed/1.0/embed?url=https:%2F%2Fconectaweb.pe%2Fpaginas-web-arequipa%2F
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://conectaweb.pe/wp-json/oembed/1.0/embed?url=https:%2F%2Fconectaweb.pe%2Fpaginas-web-arequipa%2F&
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://conectaweb.pe/wp-content/cache/min/1/54ebaf8587b1b55fe163b22a414e4732.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\cache\min\1\54ebaf8587b1b55fe163b22a414e4732.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-json/oembed/1.0/embed?url=https:%2F%2Fconectaweb.pe%2Ftiendas-virtuales%2F
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://conectaweb.pe/wp-json/oembed/1.0/embed?url=https:%2F%2Fconectaweb.pe%2Ftiendas-virtuales%2F&
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://conectaweb.pe/wp-content/uploads/2020/04/pagos_tarjetas.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2020\04\pagos_tarjetas.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/?C=N;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index-1.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/?C=M;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index-2.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/?C=S;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index-3.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/?C=D;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index-4.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/admin.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\admin.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/admin.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\admin.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/advanced-button.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\advanced-button.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/advanced-button.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\advanced-button.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/audio-player.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\audio-player.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/audio-player.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\audio-player.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/cookieconsent.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\cookieconsent.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/cookieconsent.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\cookieconsent.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/crypto-currency.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\crypto-currency.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/crypto-currency.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\crypto-currency.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/datatables.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\datatables.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/datatables.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\datatables.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-editor.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\element-pack-editor.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-editor.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\element-pack-editor.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-preview.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\element-pack-preview.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-preview.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\element-pack-preview.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-site.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\element-pack-site.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-site.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\element-pack-site.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/event-calendar.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\event-calendar.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/event-calendar.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\event-calendar.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/gravity-form.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\gravity-form.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/gravity-form.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\gravity-form.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/gridtab.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\gridtab.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/gridtab.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\gridtab.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/imagezoom.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\imagezoom.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/imagezoom.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\imagezoom.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/player.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\player.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/player.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\player.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/post-grid-tab.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\post-grid-tab.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/post-grid-tab.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\post-grid-tab.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/social-share.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\social-share.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/social-share.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\social-share.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/tippy.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\tippy.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/tippy.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\tippy.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/twentytwenty.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\twentytwenty.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/twentytwenty.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\twentytwenty.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/video-gallery.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\video-gallery.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/video-gallery.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\video-gallery.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/video-player.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\video-player.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/video-player.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\video-player.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/weather.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\weather.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/weather.rtl.css
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\weather.rtl.css
+Content Type: text/css
+
+Uri: https://conectaweb.pe/wp-content/uploads/2020/04/implementacion-de-aulas-virtuales.jpg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\uploads\2020\04\implementacion-de-aulas-virtuales.jpg
+Content Type: image/jpeg
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/?C=N;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index-5.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/?C=M;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index-6.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/?C=S;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index-7.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/css/?C=D;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\css\index-8.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/?C=N;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index-1.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/?C=M;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index-2.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/?C=S;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index-3.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/?C=D;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index-4.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/js/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\js\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/others/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\others\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/vendor/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\vendor\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/datatables/sort_both.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\datatables\sort_both.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/datatables/sort_asc.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\datatables\sort_asc.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/datatables/sort_desc.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\datatables\sort_desc.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/datatables/sort_asc_disabled.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\datatables\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/datatables/sort_desc_disabled.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\datatables\sort_desc_disabled.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack-widgets-icon.ttf?6ne4z9
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack-widgets-icon.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack-widgets-icon.woff?6ne4z9
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack-widgets-icon.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack-widgets-icon.svg?6ne4z9
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack-widgets-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/vendor/fonts/social-share.ttf
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\vendor\fonts\social-share.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/vendor/fonts/social-share.woff
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\vendor\fonts\social-share.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/vendor/fonts/social-share.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\vendor\fonts\social-share.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/weather.ttf?u6catx
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\weather.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/weather.woff?u6catx
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\weather.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/weather.svg?u6catx
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\weather.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/loading.gif
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/images/lens.png
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\images\lens.png
+Content Type: image/png
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/?C=N;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index-5.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/?C=M;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index-6.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/?C=S;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index-7.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/?C=D;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\index-8.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/?C=N;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\index-1.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/?C=M;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\index-2.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/?C=S;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\index-3.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/?C=D;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\index-4.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/base/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\base\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/changelog.txt
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\changelog.txt
+Content Type: text/plain
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/includes/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\includes\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/languages/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\languages\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/modules/
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\modules\index.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/readme.txt
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\readme.txt
+Content Type: text/plain
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/?C=N;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\index-1.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/?C=M;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\index-2.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/?C=S;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\index-3.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/?C=D;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\index-4.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack-widgets-icon.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack-widgets-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack-widgets-icon.ttf
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack-widgets-icon-1.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack-widgets-icon.woff
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack-widgets-icon-1.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/weather.svg
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\weather-1.svg
+Content Type: image/svg+xml
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/weather.ttf
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\weather-1.ttf
+Content Type: font/ttf
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/fonts/weather.woff
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\fonts\weather-1.woff
+Content Type: font/woff
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/js/?C=N;O=D
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\js\index-1.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/js/?C=M;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\js\index-2.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/js/?C=S;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\js\index-3.html
+Content Type: text/html
+
+Uri: https://conectaweb.pe/wp-content/plugins/bdthemes-element-pack/assets/js/?C=D;O=A
+File Name: C:\Users\carlo\Desktop\WEBCOPIADAAAA\conectaweb.pe\wp-content\plugins\bdthemes-element-pack\assets\js\index-4.html
+Content Type: text/html
+
